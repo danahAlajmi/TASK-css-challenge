@@ -11,14 +11,15 @@ body{
 }
 
 .box{
-    border-style: outset;
+    box-shadow: 0 5px 42px 5px black;
     height: 200;
     width: 200px;
     background: #fff;
     text-align: center;
     border-radius: 20px;
     position: relative;
+    padding: 20px;
 }
 .imgborder{
-    border-radius: 50px;
+    border-radius: 100%;
 }
