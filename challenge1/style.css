@@ -1,0 +1,21 @@
+
+body{
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(63,5,77,1) 80%, rgba(98,73,95,1) 100%);
+}
+
+div{
+    text-align: center;
+}
+h1{
+    font-size: 70px;
+    color: white;
+}
+img{
+    border-style: outset;
+    border-radius: 30px;
+}
+p{
+    color: white;
+    
+}

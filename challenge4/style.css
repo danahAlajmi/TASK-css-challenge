@@ -1,15 +1,27 @@
 /* Add your code in each class */
-body {
+body { 
+  background-color: rgb(49, 16, 59);
 }
 .container {
+  
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  object-fit: cover;
 }
 .movie-card {
+ 
 }
 .movie-image {
+  
+  height: 500px;
+  width: 300px;
 }
 .movie-details-container {
 }
 .descriptions {
+  position: relative;
 }
 
 /*A gift from us!*/
